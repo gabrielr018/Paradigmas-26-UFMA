@@ -1,4 +1,3 @@
-# ATV1:: Sistema de Validação de Vendas de Bebidas+18
 
 **Universidade Federal do Maranhão (UFMA)**  
 **Disciplina:** PARADIGMAS DE PROGRAMAÇÃO  
@@ -8,6 +7,7 @@
 - TEREZA CLARICE DA SILVA ROCHA 
 
 ---
+# ATV1:: Sistema de Validação de Vendas de Bebidas+18
 
 ## 📝 Sobre o programa
 
