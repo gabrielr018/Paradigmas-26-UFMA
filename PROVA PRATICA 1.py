@@ -1,3 +1,4 @@
+#ALUNOS: GABRIEL PEREIRA SILVA, CASSIO HERBETH RODRIGUES ARAUJO
 #armazena os dados na memória (IMPERATIVO)
 
 nome = input("digite seu nome: ")
