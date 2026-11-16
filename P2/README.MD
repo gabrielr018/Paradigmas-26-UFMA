@@ -18,21 +18,6 @@ O projeto utiliza duas classes principais:
 
 Essa organização separa as responsabilidades e facilita a reutilização, manutenção e realização de testes.
 
-## Como executar
-
-Na pasta principal do projeto, execute:
-
-```bash
-python main.py
-
-Caso necessário, utilize python3 main.py.
-
-Como executar os testes
-
-bash
-python -m unittest discover -s tests -v
-
-
 ##Mudanças em relação ao Trabalho 1
 Em relação ao código original, foram realizadas as seguintes melhorias:
 
@@ -46,5 +31,22 @@ Extensibilidade: novas operações, como potência, podem ser adicionadas por me
 
 #Objetivo acadêmico
 Demonstrar a refatoração do código desenvolvido no Trabalho 1, aplicando os conceitos de Programação Orientada a Objetos para melhorar a organização, manutenção, reutilização e extensibilidade do sistema.
+
+
+
+
+## Como executar
+
+Na pasta principal do projeto, execute:
+
+```bash
+python main.py
+
+Caso necessário, utilize python3 main.py.
+
+Como executar os testes
+
+bash
+python -m unittest discover -s tests -v
 
 
