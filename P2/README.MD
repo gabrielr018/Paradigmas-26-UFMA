@@ -18,22 +18,6 @@ O projeto utiliza duas classes principais:
 
 Essa organização separa as responsabilidades e facilita a reutilização, manutenção e realização de testes.
 
-##Mudanças em relação ao Trabalho 1
-Em relação ao código original, foram realizadas as seguintes melhorias:
-
-POO: funções soltas foram substituídas por classes com responsabilidades específicas.
-
-Tratamento de erros: a divisão por zero passou a gerar uma ArithmeticException, tratada com try/except.
-
-Correção de bug: corrigida a comparação entre valores inteiros e strings no menu.
-
-Extensibilidade: novas operações, como potência, podem ser adicionadas por meio da criação de uma nova classe e seu registro na Calculadora, sem necessidade de alterar as demais operações.
-
-#Objetivo acadêmico
-Demonstrar a refatoração do código desenvolvido no Trabalho 1, aplicando os conceitos de Programação Orientada a Objetos para melhorar a organização, manutenção, reutilização e extensibilidade do sistema.
-
-
-
 
 ## Como executar
 
@@ -44,7 +28,20 @@ python main.py
 
 Caso necessário, utilize python3 main.py.
 
-Como executar os testes
+## Mudanças em relação ao Trabalho 1
+Em relação ao código original, foram realizadas as seguintes melhorias:
+
+POO: funções soltas foram substituídas por classes com responsabilidades específicas.
+
+Tratamento de erros: a divisão por zero passou a gerar uma ArithmeticException, tratada com try/except.
+
+Correção de bug: corrigida a comparação entre valores inteiros e strings no menu.
+
+Extensibilidade: novas operações, como potência, podem ser adicionadas por meio da criação de uma nova classe e seu registro na Calculadora, sem necessidade de alterar as demais operações.
+
+# Objetivo 
+Demonstrar a refatoração do código desenvolvido no Trabalho 1, aplicando os conceitos de Programação Orientada a Objetos para melhorar a organização, manutenção, reutilização e extensibilidade do sistema.
+
 
 bash
 python -m unittest discover -s tests -v
